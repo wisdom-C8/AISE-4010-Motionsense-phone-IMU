@@ -1,1 +1,16 @@
+# Dataset (MotionSense DeviceMotion data) — too large for git
 A_DeviceMotion_data
+A_DeviceMotion_data.zip
+
+# macOS
+.DS_Store
+
+# Local tooling / editor
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
