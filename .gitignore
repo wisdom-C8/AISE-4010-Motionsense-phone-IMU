@@ -13,4 +13,5 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 .venv/
+.vscode/
 venv/
