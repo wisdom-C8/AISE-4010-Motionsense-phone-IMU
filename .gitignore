@@ -1,6 +1,7 @@
 # Dataset (MotionSense DeviceMotion data) — too large for git
 A_DeviceMotion_data
 A_DeviceMotion_data.zip
+A_DeviceMotion_data_split/
 
 # macOS
 .DS_Store
